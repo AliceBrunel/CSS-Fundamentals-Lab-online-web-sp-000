@@ -28,4 +28,5 @@ nav > a {
 #details > div {
   display: inline-block;
   margin: auto;
+  width: 100%;
 }
