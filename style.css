@@ -21,3 +21,6 @@ nav {
   text-align: center;
 }
 
+nav > a {
+  background: grey;
+}
