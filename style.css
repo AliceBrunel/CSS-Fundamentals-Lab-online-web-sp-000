@@ -26,5 +26,5 @@ nav > a {
 }
 
 #details {
-  float: left;
+  display: inline-block;
 }
