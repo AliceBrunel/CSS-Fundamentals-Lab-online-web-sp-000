@@ -31,4 +31,5 @@ nav > a {
 }
 #details > div {
   display: inline-block;
+  margin: 80px;
 }
