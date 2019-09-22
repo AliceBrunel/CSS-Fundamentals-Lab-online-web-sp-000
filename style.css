@@ -25,6 +25,9 @@ nav > a {
   background: grey;
 }
 
+#details {
+  text-align: center;
+}
 #details > div {
   display: inline-block;
 }
