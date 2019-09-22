@@ -19,5 +19,8 @@ p {
 
 nav {
   text-align: center;
+}
+
+.li {
   background: grey;
 }
