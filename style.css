@@ -25,6 +25,6 @@ nav > a {
   background: grey;
 }
 
-#details {
+#details > div {
   display: inline-block;
 }
